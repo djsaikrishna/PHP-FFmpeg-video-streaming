@@ -51,7 +51,7 @@
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "^8.4",
+        "phpunit/phpunit": "^11.0",
         "aws/aws-sdk-php": "^3.0@dev",
         "google/cloud-storage": "dev-main",
         "microsoft/azure-storage-blob": "dev-master"
